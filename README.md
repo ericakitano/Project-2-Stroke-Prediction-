@@ -57,11 +57,11 @@ There are no `stroke`s observed in children.
   - Recall score: **0.865** 
   - Accuracy score: **0.747**
 
-This model is recommended because it has a balance of relatively high recall score and accuracy score. Having a high recall score is important because Type 2 errors (False Negatives) are more costlier for this dataset than Type 1 errors.
+This model is recommended because it has a balance of relatively high recall score and accuracy score. Having a high recall score is important because Type 2 errors (False Negatives) are more costlier for this dataset than Type 1 errors. 
 
 ### Limitations
 
-For this set of data, it is difficult to find a model that has both low Type 1 and low Type 2 errors. This can be explained from the observation that the features do not correlate well with the target. 
+For this set of data, it is difficult to find a model that has both low Type 1 and low Type 2 errors. This may be explained from the observation that the features do not correlate well with the target. 
 
 ### For further information
 For any additional questions, please contact ekitano1@gmail.com
